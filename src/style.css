@@ -67,6 +67,11 @@ body {
   transform: scale(1.01);
   box-shadow: 0 6px 16px rgba(147, 60, 36, 0.4);
 }
+.btn:active {
+  background-color: #a6472d;
+  transform: scale(1.01);
+  box-shadow: 0 6px 16px rgba(147, 60, 36, 0.4);
+}
 
 .title {
   font-family: var(--font-tittle);
